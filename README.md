@@ -57,13 +57,13 @@
 | Project | Description | Tech |
 |---|---|---|
 | **AI Chatbot with RAG & Memory** | Chatbot with retrieval-augmented generation and long-term memory | LangGraph, LangChain, PostgreSQL, ChromaDB, FastAPI, Streamlit |
-| **AI Agent for Cyber-Forensics** | Agent that detects image manipulation and generates confidence-scored authenticity reports | LangGraph, LangChain, FastAPI, Python |
-| **YouTube Summarizer & QnA Tool** | Summarizes videos and answers context-aware queries from transcripts | LangChain, FAISS, YouTube Transcript API |
+| [Chain-of-Thought Agent for Forensic Applications](https://github.com/Anmol-Bhatnagar/Chain-of-Thought-based-Agent-for-Forensic-Applications) | Agent that detects image manipulation and generates confidence-scored authenticity reports | LangGraph, LangChain, FastAPI, Python |
+| [YouTube Summarizer & QnA Tool](https://github.com/Anmol-Bhatnagar/Youtube-Summarizer-and-QnA-Tool) | Summarizes videos and answers context-aware queries from transcripts | LangChain, FAISS, YouTube Transcript API |
 | [Demand Forecasting for Kirana Stores](https://github.com/Anmol-Bhatnagar/Demand-Forecasting-and-Product-Prioritizing-for-Kirana-Stores-Local-Retailers-) | ML-based demand forecasting & product prioritization for local retailers | Python, Pandas, Scikit-learn |
 | [Farmers' Profit & Yield Optimization](https://github.com/Anmol-Bhatnagar/Small-Scale-Farmers-Profit-Maximisation-and-Yield-Optimisation) | Models to maximize profit and optimize yield for small-scale farmers | Python, Scikit-learn, NumPy |
 | [Material Identifier](https://github.com/Anmol-Bhatnagar/Material-Identifier-using-simple-Experiments) | Classifies materials using Hall Effect & Magnetoresistance data | C++ |
 
-<sub>🔧 The top 3 projects are on my resume but not yet pushed here — coming soon.</sub>
+<sub>🔧 RAG chatbot with long-term memory is on my resume but not yet pushed here — coming soon.</sub>
 
 ---
 
