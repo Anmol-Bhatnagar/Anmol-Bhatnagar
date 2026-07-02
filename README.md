@@ -106,8 +106,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmol-Bhatnagar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Bhatnagar&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Anmol-Bhatnagar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anmol-Bhatnagar&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
