@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Open%20to%20Internships-2E9EF7?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Anmol-Bhatnagar&style=flat-square&color=2E9EF7" alt="Profile views" />
+  <a href="mailto:anmol3.bhatnagar@gmail.com">
+    <img src="https://img.shields.io/badge/-Open%20to%20Internships-2E9EF7?style=flat-square" />
+  </a>
 </p>
 
 ---
@@ -109,15 +110,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Bhatnagar&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Bhatnagar&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
+  <a href="https://anmol-bhatnagar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/anmol-bhatnagar03/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
